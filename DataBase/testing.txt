@@ -1,13 +1,13 @@
-*   Birds have different beak shapes.
-*   Some birds migrate in winter.
-*   Birds can be many colors.
-*   Owls hunt at night.
-*   Some birds swim in water.
+*   Python is a fun computer language.
+*   It uses words, not just numbers.
+*   You write instructions for the computer.
+*   The computer then follows your instructions.
+*   It's like giving commands to a robot!
 
-Example:
-
-*   A duck swims in pond.
-*   It looks for food.
-*   It quacks happily.
+*   `print("Hello, world!")`
+*   This tells Python to show text.
+*   "Hello, world!" is the text shown.
+*   You can change the text inside "".
+*   Try it out and see what happens!
 
 Click NEXT to learn about it more.
