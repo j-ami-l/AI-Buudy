@@ -1,0 +1,13 @@
+*   Birds have different beak shapes.
+*   Some birds migrate in winter.
+*   Birds can be many colors.
+*   Owls hunt at night.
+*   Some birds swim in water.
+
+Example:
+
+*   A duck swims in pond.
+*   It looks for food.
+*   It quacks happily.
+
+Click NEXT to learn about it more.

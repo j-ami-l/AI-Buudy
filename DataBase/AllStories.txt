@@ -1,0 +1,9 @@
+* Python is easy to learn language always
+* Python is used for making games always
+* Python is used for making websites always
+* Python is used for making apps always
+* Python is fun to learn always 
+print("Hello") 
+print("World") 
+print("Python")
+

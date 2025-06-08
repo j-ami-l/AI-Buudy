@@ -1,0 +1,32 @@
+
+load_dotenv()
+
+llm = ChatGroq(groq_api_key = os.getenv("GROQ_API_KEY"), model_name ="llama-3.3-70b-versatile")
+
+
+if __name__ == "__main__":
+    with open("stories.txt", "r", encoding="utf-8") as file1:
+        stories_content1 = file1.read()
+    with open("All.txt", "r", encoding="utf-8") as file2:
+        stories_content2 = file2.read()
+    response = llm.invoke(f"I was telling u to act like my teacher and told you to teach me about {stories_content1} this .you have thaught me {stories_content2} these things , now teach me farther about the topic , in 5 bulet points with 10 words that dont include the things you have alerady thaught me , if the content is about pogramming you can teach me some libraries or key points or function ,  at last give a short example in 3 lines , no preambles , dont repeat any line with same meaning")
+    with open("testing.txt", "w", encoding="utf-8") as file:
+        file.write(response.content)
+
+
+
+        from dotenv import load_dotenv
+from langchain_groq import ChatGroq
+import os
+
+
+load_dotenv()
+
+llm = ChatGroq(groq_api_key = os.getenv("GROQ_API_KEY"), model_name ="llama-3.3-70b-versatile")
+
+if __name__ == "__main__":
+    with open("stories.txt", "r", encoding="utf-8") as file:
+        stories_content = file.read()
+    response = llm.invoke(f"consider You are my teacer . I am 10 years old . Now teach me {stories_content} from scrach using simple examples.at first teach me on thing in 5 bulet points with 10 words then i will tell you to teach me farther. No preamle . at last give a short example in 3 lines , dont repeat any line with same meaning ")
+    with open("testing.txt", "w", encoding="utf-8") as file:
+        file.write(response.content)
