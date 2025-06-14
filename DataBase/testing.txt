@@ -1,13 +1,12 @@
-*   Python is a fun computer language.
-*   It uses words, not just numbers.
-*   You write instructions for the computer.
-*   The computer then follows your instructions.
-*   It's like giving commands to a robot!
+*   Python is a coding language.
+*   It uses English-like words.
+*   We tell the computer what to do.
+*   We write instructions called code.
+*   Computers follow code to do things.
 
 *   `print("Hello, world!")`
-*   This tells Python to show text.
-*   "Hello, world!" is the text shown.
-*   You can change the text inside "".
-*   Try it out and see what happens!
+*   This line tells Python to show text.
+*   The text is "Hello, world!".
+*   When run, it shows that on screen.
 
 Click NEXT to learn about it more.

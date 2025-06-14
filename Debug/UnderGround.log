@@ -1,0 +1,82 @@
+﻿  main.cpp
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(128,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(128,83): warning C4244:         with
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(128,83): warning C4244:         [
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(128,83): warning C4244:             T=float
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(128,83): warning C4244:         ]
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(128,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(128,62): warning C4244:         with
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(128,62): warning C4244:         [
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(128,62): warning C4244:             T=float
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(128,62): warning C4244:         ]
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(136,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(136,83): warning C4244:         with
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(136,83): warning C4244:         [
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(136,83): warning C4244:             T=float
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(136,83): warning C4244:         ]
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(136,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(136,62): warning C4244:         with
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(136,62): warning C4244:         [
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(136,62): warning C4244:             T=float
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(136,62): warning C4244:         ]
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(140,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(140,83): warning C4244:         with
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(140,83): warning C4244:         [
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(140,83): warning C4244:             T=float
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(140,83): warning C4244:         ]
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(140,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(140,62): warning C4244:         with
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(140,62): warning C4244:         [
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(140,62): warning C4244:             T=float
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(140,62): warning C4244:         ]
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(144,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(144,83): warning C4244:         with
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(144,83): warning C4244:         [
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(144,83): warning C4244:             T=float
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(144,83): warning C4244:         ]
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(144,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(144,62): warning C4244:         with
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(144,62): warning C4244:         [
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(144,62): warning C4244:             T=float
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(144,62): warning C4244:         ]
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(148,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(148,83): warning C4244:         with
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(148,83): warning C4244:         [
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(148,83): warning C4244:             T=float
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(148,83): warning C4244:         ]
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(148,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(148,62): warning C4244:         with
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(148,62): warning C4244:         [
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(148,62): warning C4244:             T=float
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(148,62): warning C4244:         ]
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(153,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(153,83): warning C4244:         with
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(153,83): warning C4244:         [
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(153,83): warning C4244:             T=float
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(153,83): warning C4244:         ]
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(153,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(153,62): warning C4244:         with
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(153,62): warning C4244:         [
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(153,62): warning C4244:             T=float
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(153,62): warning C4244:         ]
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(160,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(160,83): warning C4244:         with
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(160,83): warning C4244:         [
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(160,83): warning C4244:             T=float
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(160,83): warning C4244:         ]
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(160,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(160,62): warning C4244:         with
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(160,62): warning C4244:         [
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(160,62): warning C4244:             T=float
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(160,62): warning C4244:         ]
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(268,137): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(268,137): warning C4244:         with
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(268,137): warning C4244:         [
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(268,137): warning C4244:             T=float
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(268,137): warning C4244:         ]
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(268,116): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(268,116): warning C4244:         with
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(268,116): warning C4244:         [
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(268,116): warning C4244:             T=float
+C:\Users\hjhas\source\repos\UnderGround\UnderGround\main.cpp(268,116): warning C4244:         ]
+  UnderGround.vcxproj -> C:\Users\hjhas\source\repos\UnderGround\Debug\UnderGround.exe

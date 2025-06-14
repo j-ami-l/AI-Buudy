@@ -1,18 +1,84 @@
-Birds are animals with feathers and wings.
+Let's start with the basics: Nouns!
 
-*   Birds lay eggs to have baby birds.
-*   They can fly using their wings.
-*   Birds eat seeds, insects, or fruits.
-*   Many birds sing pretty songs.
-*   They live in nests.
+*   Nouns are words for people, places, or things.
+*   "Dog" is a noun: it's an animal.
+*   "Park" is a noun: it's a place to play.
+*   "Ball" is a noun: it's a thing to play with.
+*   Nouns can be singular (one) or plural (more than one).
 
 Example:
 
-*   A blue bird flies.
-*   It builds a cozy nest.
-*   It lays three blue eggs.
-*   Mommy bird brings food.
-*   Baby birds hatch soon.
+*   The cat is sleeping.
+*   Birds are flying high.
+*   I love the playground.
+
+Click NEXT to learn about it more.
+
+*   Nouns can be common or proper.
+*   Proper nouns are specific names, like "John."
+*   They always start with a capital letter.
+*   Common nouns are general, like "boy."
+*   Nouns can also be countable or uncountable.
+
+Example:
+
+*   Sarah has a dog.
+*   We need more water.
+*   I like my school.
+
+Click NEXT to learn about it more.
+
+* Nouns can be concrete or abstract.
+* Concrete nouns: things you can touch.
+* Abstract nouns: ideas, feelings, qualities.
+* Collective nouns name groups (team, family).
+* Possessive nouns show ownership (dog's bone).
+
+Example:
+
+* The team won the game.
+* My brother's car is new.
+* Honesty is the best policy.
+
+Click NEXT to learn about it more.
+
+* Noun functions: subject, object, complement, appositive.
+* Nouns can be modified by adjectives.
+* Noun phrases include nouns and modifiers.
+* Nouns form the core of many sentences.
+* Some nouns can be used as verbs.
+
+Example:
+
+* Time flies quickly each day.
+* The tall building amazes me.
+* Reading books enriches knowledge.
+
+Click NEXT to learn about it more.
+
+*   Python is a fun, easy to learn programming language.
+*   We use it to give the computer instructions.
+*   Instructions are called code, like a secret language!
+*   You can make games, solve problems, and much more.
+*   It uses words, numbers and symbols to do things.
+
+*   `print("Hello, world!")` shows words on screen.
+*   `x = 5`  assigns the number 5 to the letter `x`.
+*   `print(x + 2)` adds 2 to x, and shows the answer.
+*   `if x > 3:` checks if x is bigger than 3.
+*   `print("x is big!")` shows words if x is big.
+
+Click NEXT to learn about it more.
+
+*   Variables store data, like numbers or text.
+*   Data types: integer (number), string (text).
+*   Operators: `+` (add), `-` (subtract), `*` (multiply).
+*   Comments explain code, starting with `#`.
+*   Functions are reusable code blocks.
+
+*   `name = "Alice"` creates a string variable.
+*   `age = 10` creates an integer variable.
+*   `print("Hello, " + name + "! You are", age)` combines them.
 
 Click NEXT to learn about it more.
 

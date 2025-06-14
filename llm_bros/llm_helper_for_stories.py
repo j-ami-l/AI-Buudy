@@ -15,14 +15,13 @@ if __name__ == "__main__":
     prompt = f"""
     I am {user}, a 10-year-old kid. You are my story buddy. 
     Tell me a sweet and simple story about anything. 
-    The story should teach me something new or interesting. 
+    The story should teach me something  interesting or mystrey. 
     Use very easy words so I understand. 
     Write it like someone is telling me the story. 
     No points, no numbers, no lists. 
     Each line should have no more than 10 words. 
     The story must be no more than 14 lines. 
-    Start only with the story title. 
-    Involve me in the story too. 
+    Start only with the story title.
     No preambles before the story, just the title and the story.
     """
 

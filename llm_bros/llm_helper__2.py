@@ -20,10 +20,7 @@ if __name__ == "__main__":
 
    
     prompt = f"""
-    If {ELearning_content1} contains any adult or 18+ topics, or anything not suitable for a 10 year old, do not teach it. 
-    Instead, give a short story in points about a good Muslim boy. 
-    If the content is safe, DO NOT write any story  only write the tutorial and example in the format below. Avoid anything inside the brackets.
-
+    
     I was telling you to act like my personal teacher and told you to teach me about {ELearning_content1}. 
     You have already taught me {stories_content2}. Now teach me further about the topic.
 
