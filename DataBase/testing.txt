@@ -1,12 +1,19 @@
-*   Python is a coding language.
-*   It uses English-like words.
-*   We tell the computer what to do.
-*   We write instructions called code.
-*   Computers follow code to do things.
+*   Python is a language for computers to understand.
+*   We use it to tell the computer what to do.
+*   It uses words and symbols we can understand.
+*   It's like giving instructions to a friend.
+*   You can make games and programs with Python!
 
-*   `print("Hello, world!")`
-*   This line tells Python to show text.
-*   The text is "Hello, world!".
-*   When run, it shows that on screen.
+```python
+# Example
+# Print "Hello, world!" to the screen.
+print("Hello, world!")
+
+#This is a comment.
+# Comments are ignored by python.
+
+# Another example.
+print ("My name is... you!")
+```
 
 Click NEXT to learn about it more.
